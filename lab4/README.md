@@ -5,7 +5,7 @@ This table provides detailed descriptions of various datasets, focusing on their
 
 | **Dataset**           | **Sensitive Attributes**   | **Target Label**          | **Class**   | 
 |-----------------------|----------------------------|---------------------------|-------------|
-| **ADULT**             | sex, race, age             | Class-label               | Binary      |
+| **ADULT**             | gender, race, age          | Class-label               | Binary      |
 | **COMPAS**            | Sex, Race                  | Recidivism                | Binary      | 
 | **LAW SCHOOL**        | male,race                  | pass_bar                  | Binary      | 
 | **KDD**               | sex, race                  | income                    | Binary      | 
